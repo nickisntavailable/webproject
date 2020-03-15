@@ -1,0 +1,26 @@
+
+
+@font-face {
+    font-family: Roboto; /* Гарнитура шрифта */
+    src: local(Roboto), url(../fonts/Roboto-Regular.ttf); /* Для остальных браузеров */
+
+    font-family: Roboto - Black; /* Гарнитура шрифта */
+    src: local(Roboto - Black), url(../fonts/Roboto-Black.ttf); /* Для остальных браузеров */
+
+    font-family: Roboto Light; /* Гарнитура шрифта */
+    src: local(Roboto Light), url(../fonts/Roboto-Light.ttf); /* Для остальных браузеров */
+
+    font-family: Roboto - Bold; /* Гарнитура шрифта */
+    src: local(Roboto - Bold), url(../fonts/Roboto-Bold.ttf); /* Для остальных браузеров */
+}
+
+
+@font-face {
+    font-family: Roboto Condensed; /* Гарнитура шрифта */
+    src: local(Roboto Condensed), url(../fonts/Roboto-Medium.ttf); /* Для остальных браузеров */
+}
+
+@font-face {
+    font-family: Roboto - Thin; /* Гарнитура шрифта */
+    src: local(Roboto - Thin), url(../fonts/Roboto-Thin.ttf); /* Для остальных браузеров */
+}
